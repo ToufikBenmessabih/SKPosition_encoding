@@ -10,7 +10,7 @@ $`p_n(x) = (\sin(2^0 \pi x), \cos(2^0 \pi x), \sin(2^1 \pi x), \cos(2^1 \pi x), 
 
 Where:
 
-- $`x`$ represents the position or time step.
+- $`x`$ represents the position coordinates (x,y,z) separatly.
 - $`N`$ is the highest exponent in the series, determining the number of terms.
 - $`\pi`$ is the mathematical constant Pi (approximately 3.14159).
 
