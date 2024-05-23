@@ -10,9 +10,9 @@ $`p_n(x) = (\sin(2^0 \pi x), \cos(2^0 \pi x), \sin(2^1 \pi x), \cos(2^1 \pi x), 
 
 Where:
 
-- `x` represents the position or time step.
-- `N` is the highest exponent in the series, determining the number of terms.
-- `π` is the mathematical constant Pi (approximately 3.14159).
+- $`x`$ represents the position or time step.
+- $`N`$ is the highest exponent in the series, determining the number of terms.
+- $`\pi`$ is the mathematical constant Pi (approximately 3.14159).
 
 ### Explanation
 The formula generates a sequence of sine and cosine values at different frequencies. The terms are generated as follows:
