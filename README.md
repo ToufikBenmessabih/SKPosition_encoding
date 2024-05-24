@@ -1,5 +1,6 @@
 # SKPosition_encoding
 Position Encoding Using Trigonometric Functions.
+Notebook: `SKpose_spacial_position_encoding.ipynb`
 
 ### Formula
 
@@ -23,3 +24,8 @@ For each integer i from 0 to N:
 - Concatenate these values into a single list.
 
 This encoding allows the model to learn positional dependencies.
+
+# Concatenate input with position encoding
+Notebook: `concat (pe, X).ipynb`
+
+
