@@ -28,4 +28,6 @@ This encoding allows the model to learn positional dependencies.
 # Concatenate the position_encoding with the input
 Notebook: `concat (pe, X).ipynb`
 
+![image](https://github.com/ToufikBenmessabih/SKPosition_encoding/assets/125380057/661e8d66-660e-4bcb-9ccf-8c91366e66f8)
+
 
